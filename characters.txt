@@ -1,0 +1,503 @@
+Before alphabets
+
+{
+
+
+
+
+
+
+}
+
+
+{  
+#
+#
+#
+#
+#
+
+#
+}
+
+
+{
+  #  # 
+ #  #
+ ## ##
+ ## ##
+
+
+}
+
+
+
+{
+  #   #
+#########
+  #   #
+  #   #
+  #   #
+#########
+  #   #
+}
+
+
+
+
+{
+   #
+ ######
+#  #
+ #####
+   #  #
+######
+   #
+}  
+ 
+ 
+ 
+
+{
+      #
+##   #  
+    #
+   #
+  #
+ #   ##
+#   
+}
+
+
+	 
+{	 
+   ###
+  #   #
+   ##
+ #   #   #
+#      #
+ #    #  #
+  ###      #
+}
+
+
+{
+  #
+ #
+ ##
+ ##
+
+
+ 
+}
+
+
+{   
+  #
+ #
+#
+#
+#
+ #
+  #
+}
+
+
+ 
+  
+  
+{ 
+#
+ #
+  #
+  #
+  #
+ #
+#
+}
+
+ 
+ 
+
+{
+#     #     #
+  #   #   #   
+    # # #    
+      #      
+    # # #     
+  #   #   #    
+#     #     #
+}
+
+
+
+{
+
+   #
+   #
+#######
+   #
+   #
+	 
+}	 
+	 
+	 
+
+ 
+ 
+
+
+
+{
+
+
+
+ ##
+ ##
+  #
+ #
+}
+
+
+
+{
+
+
+
+######
+
+
+
+}
+
+
+
+
+{
+
+
+
+
+ ##
+ ##
+
+}
+
+
+
+
+{   
+      #
+     #  
+    #
+   #
+  #
+ #
+#
+} 
+ 
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+Numbers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+
+
+ ##
+
+ ##
+
+
+}
+
+
+
+{
+
+
+ ##
+
+ ##
+  #
+ #
+}
+
+
+
+
+{
+      #
+    #
+  #
+#
+  #
+    #
+      #
+}
+
+
+
+
+
+
+  
+{ 
+
+
+######
+  
+######
+
+
+}
+
+
+
+
+
+{
+#
+  #
+    #
+      #
+    #
+  #
+#
+}
+
+
+
+
+
+{
+ #####
+#     #
+     #
+   #
+   #
+   
+   #
+}
+
+
+
+
+
+{
+    ####
+ #        #
+#   ####   #
+#  #    #  #
+#  #   ##  #
+ #  ###  ##
+  #
+}
+
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+after alphabets
+
+{
+###
+#
+#
+#
+#
+#
+###
+}
+   
+   
+
+
+
+
+{
+#
+ #  
+  #
+   #
+    #
+     #
+      #
+}
+	  
+
+	  
+
+
+{
+###
+  #
+  #
+  #
+  #
+  #
+###
+}
+
+
+{
+    ##
+  ##  ##
+##      ##
+  
+  
+  
+}
+
+
+
+
+
+
+{
+
+
+
+
+
+
+
+####### 
+} 
+
+
+
+{
+ ##
+   ##
+     ##
+	 
+	 
+	 
+
+}
+
+
+
+GAP
+
+
+
+{
+   ###
+  #
+  #
+#
+  #
+  #
+   ###
+}
+
+  
+	  
+	  
+{
+ #
+ # 
+ #
+ #
+ #
+ #
+ #
+}
+
+
+
+
+{
+###
+   #
+   #
+     #
+   #
+   #
+###
+}
+
+
+
+
+{
+
+
+  ###
+#     #     #
+        ###
+
+
+}
+
+
+

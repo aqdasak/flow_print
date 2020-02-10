@@ -1,0 +1,16 @@
+			public void credit()
+			{
+				System.out.println();
+				System.out.println();
+				System.out.println();
+				System.out.println();
+				System.out.println("						ooooooooooooooooooooooooooooooooooooooooooooooooooo");
+				System.out.println("						o						  o");
+                         	System.out.println("						o [Developer - Aqdas Ahmad Khan & Deepansh Dubey] o");
+				System.out.println("						o						  o");
+				System.out.println("						ooooooooooooooooooooooooooooooooooooooooooooooooooo");
+				System.out.println();
+				System.out.println();
+				System.out.println();
+				System.out.println();
+			}
