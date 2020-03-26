@@ -669,7 +669,15 @@ class stark
 						{
 							for(ii=0;ii<A[a][j];ii++)
 							{
-								for(int m=1;m<=1000000;m++);//for delay in printing
+								//for delay in printing
+								try
+								{
+									Thread.sleep(2);
+								}
+								catch(Exception e)
+								{
+									for(int m=1;m<=1000000;m++);
+								}
 								if(k%2==0)
 								{
 									System.out.print(cc);
