@@ -3,7 +3,7 @@
 // Purpose  : Print string in a unique way
 import java.io.*;
 import java.util.*;
-class stark
+class flow_print
 {
 	void render(String str,char cc)
 	{
@@ -702,16 +702,11 @@ class stark
 	{
 		System.out.println();
 		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println("						ooooooooooooooooooooooooooooooooooooooooooooooooooo");
-		System.out.println("						o                                                 o");
-		System.out.println("						o [Developer - Aqdas Ahmad Khan & Deepansh Dubey] o");
-		System.out.println("						o                                                 o");
-		System.out.println("						ooooooooooooooooooooooooooooooooooooooooooooooooooo");
-		System.out.println();
-		System.out.println();
-		System.out.println();
+		System.out.println("					oooooooooooooooooooooooooooooooooooooooooooooooooooooo");
+		System.out.println("					o                                                    o");
+		System.out.println("					o  Developed by - Aqdas Ahmad Khan & Deepansh Dubey  o");
+		System.out.println("					o                                                    o");
+		System.out.println("					oooooooooooooooooooooooooooooooooooooooooooooooooooooo");
 		System.out.println();
 	}
 	public static void main(String args[])throws IOException
@@ -719,7 +714,7 @@ class stark
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 		String str,st;
 		char cc;
-		stark ob = new stark();
+		flow_print ob = new flow_print();
 		while(true)
 		{
 			System.out.println("Input your name or \"//\" to exit");
@@ -731,7 +726,7 @@ class stark
 			if(st.length()!=0)
 				cc=st.charAt(0);
 			else
-				cc='#';
+				cc='o';
 			System.out.println();
 			ob.render(str,cc);
 			System.out.println();
